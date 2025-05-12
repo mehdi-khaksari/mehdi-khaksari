@@ -1,16 +1,12 @@
-## Hi there 👋
+### 👋 Hi! I'm Mehdi
 
-<!--
-**mehdi-khaksari/mehdi-khaksari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 A developer with experience in server management, automation, and containerization.  
+🔧 Skills:
+- Advanced experience with Linux systems
+- Building and managing containers in various environments
+- Automation of deployment and configuration management
+- Currently exploring new technologies for scalable systems and container orchestration.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Projects:
+- Automation projects using various tools
+- Designing and deploying Linux infrastructures for various companies
