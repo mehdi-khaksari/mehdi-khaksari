@@ -8,5 +8,5 @@
 - Currently exploring new technologies for scalable systems and container orchestration.
 
 💼 Projects:
-- Automation projects using various tools
+- Automation projects using DevOps tools
 - Designing and deploying Linux infrastructures for various companies
